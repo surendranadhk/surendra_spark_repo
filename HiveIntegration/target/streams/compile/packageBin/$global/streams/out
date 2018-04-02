@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /home/hduser/Projects/HiveIntegration/target/scala-2.10/hiveintegration_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIFileProcessor$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIFileProcessor$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIFileProcessor$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIFileProcessor$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	CRItesting[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting[0m
+[0m[[0mdebug[0m] [0m	hivetesting/HiveIntegration.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/hivetesting/HiveIntegration.class[0m
+[0m[[0mdebug[0m] [0m	hivetesting[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/hivetesting[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIFileProcessor.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIFileProcessor.class[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIFileProcessor$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIFileProcessor$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIManifestFile$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIManifestFile$.class[0m
+[0m[[0mdebug[0m] [0m	hivetesting/HiveIntegration$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/hivetesting/HiveIntegration$.class[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIFileProcessor$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIFileProcessor$.class[0m
+[0m[[0mdebug[0m] [0m	CRItesting/CRIManifestFile.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/Projects/HiveIntegration/target/scala-2.10/classes/CRItesting/CRIManifestFile.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,17 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/customers.csv,/home/hduser/Projects/spark-core/target/scala-2.11/classes/customers.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/fournulldata,/home/hduser/Projects/spark-core/target/scala-2.11/classes/fournulldata)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/sales.csv,/home/hduser/Projects/spark-core/target/scala-2.11/classes/sales.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output_rdd,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output_rdd)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/sales2.csv,/home/hduser/Projects/spark-core/target/scala-2.11/classes/sales2.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/out12,/home/hduser/Projects/spark-core/target/scala-2.11/classes/out12)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/sales-error.csv,/home/hduser/Projects/spark-core/target/scala-2.11/classes/sales-error.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output_rdd/textfile,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output_rdd/textfile)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output_rdd/textfile/part-00000,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output_rdd/textfile/part-00000)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output_rdd/textfile/_SUCCESS,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output_rdd/textfile/_SUCCESS)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output/coelesce,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output/coelesce)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output/coelesce/part-00000,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output/coelesce/part-00000)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/output/coelesce/_SUCCESS,/home/hduser/Projects/spark-core/target/scala-2.11/classes/output/coelesce/_SUCCESS)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/out12/part-00000,/home/hduser/Projects/spark-core/target/scala-2.11/classes/out12/part-00000)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/spark-core/src/main/resources/out12/_SUCCESS,/home/hduser/Projects/spark-core/target/scala-2.11/classes/out12/_SUCCESS)[0m

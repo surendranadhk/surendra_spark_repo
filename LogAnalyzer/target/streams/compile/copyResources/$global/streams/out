@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/LogAnalyzer/src/main/resources/referrers.txt,/home/hduser/Projects/LogAnalyzer/target/scala-2.11/classes/referrers.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/LogAnalyzer/src/main/resources/all_classbs.txt,/home/hduser/Projects/LogAnalyzer/target/scala-2.11/classes/all_classbs.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/LogAnalyzer/src/main/resources/requests.txt,/home/hduser/Projects/LogAnalyzer/target/scala-2.11/classes/requests.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/Projects/LogAnalyzer/src/main/resources/user_agents.txt,/home/hduser/Projects/LogAnalyzer/target/scala-2.11/classes/user_agents.txt)[0m

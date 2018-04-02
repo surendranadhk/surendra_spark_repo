@@ -1,0 +1,45 @@
+{
+  "batchId" : "7eb537ad7ed083",
+  "clusterId" : "C10285801001",
+  "logFilesGroupedByAppliances" : {
+    "A5c0000170115e301" : [ "c9881bcb-84ca-4a07-b03b-2682026bc356-77.log" ],
+    "A8600001718d5bf01" : [ "787d3e4e-2393-402e-9bc8-e50642bac267-14.log" ]
+  },
+  "quarantinedLogFiles" : {
+  },
+  "logStats" : {
+    "errorCount" : 0,
+    "clientLogErrorCount" : 0,
+    "clientLogHmacErrorCount" : 0,
+    "transactionLogErrorCount" : 0,
+    "transactionLogHmacErrorCount" : 0,
+    "transactionsGroupedByModules" : {
+      "serialization_cvdakey_padakey_hb01_v2-Istari2-v1-dev" : {
+        "successCount" : 2,
+        "failureCount" : 0,
+        "hmacErrorCount" : 0,
+        "errorCount" : 0,
+        "totalCount" : 2
+      },
+      "serialization_cvdakey_padakey_hb01_v2-Istari2-v1-nodev" : {
+        "successCount" : 10000,
+        "failureCount" : 0,
+        "hmacErrorCount" : 0,
+        "errorCount" : 0,
+        "totalCount" : 10000
+      }
+    },
+    "transactionsGroupedByTesters" : {
+      "10.46.201.207" : {
+        "successCount" : 10002,
+        "failureCount" : 0,
+        "hmacErrorCount" : 0,
+        "errorCount" : 0,
+        "totalCount" : 10002
+      }
+    }
+  }
+}
+{ClientTotalCount: 0,
+TransactionTotalCount: 0
+}
